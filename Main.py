@@ -57,3 +57,5 @@ draw.text(((width - text_width) / 2, height - text_height - 10), bottom_text, fo
 image.save("new_meme.png")
 
 print("Ваш мем готов!")
+
+#sussybaka
